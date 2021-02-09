@@ -1,0 +1,4 @@
+name: OnlyNetherWither
+main: io.github.rxdn.onlynetherwither.OnlyNetherWither
+version: 1.0
+api-version: 1.13
